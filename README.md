@@ -1,2 +1,7 @@
 # ROS_Noetic_Setup
-ROS(Noetic)の環境構築を行った時の備忘録
+ROS(Noetic)をインストールした時の備忘録
+
+## 参考資料
+『ROS Noetic』のインストール
+take4eng様
+https://qiita.com/take4eng/items/70f167320ede46e4139c
